@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Bien'ici – Prix vs Marché (Liste)",
+  "version": "1.0.0",
+  "description": "Colorie les annonces de la liste Bien'ici (vert/jaune/rouge) selon le prix au m² vs marché.",
+  "permissions": ["storage"],
+  "host_permissions": ["https://www.bienici.com/*"],
+  "action": { "default_title": "Analyse Bien'ici" },
+  "content_scripts": [
+    {
+      "matches": ["https://www.bienici.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

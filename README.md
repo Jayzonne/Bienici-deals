@@ -1,6 +1,6 @@
-# Bien-ici-Deals 🏡💰
+# Bienici-Deals 🏡💰
 
-**Bien-ici-Deals** est une extension Google Chrome qui permet de **repérer rapidement les annonces immobilières sous le prix du marché** sur le site **Bien’ici**.
+**Bienici-Deals** est une extension Google Chrome qui permet de **repérer rapidement les annonces immobilières sous le prix du marché** sur le site **Bien’ici**.
 
 L’extension analyse automatiquement les annonces affichées dans la liste et les compare au **prix réel du marché**, calculé à partir des données visibles (prix au m²).
 
@@ -115,3 +115,4 @@ Il s’agit d’un outil d’aide à la lecture des annonces, destiné à un usa
 ## 📄 Licence
 
 MIT License
+
